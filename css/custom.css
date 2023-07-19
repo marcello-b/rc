@@ -191,6 +191,10 @@
   color: #000;
 }
 
+.hero.page-info, .hero.page-info > .container > .row {
+  height: 40vh;
+  min-height: 300px; }
+
 /* .parallax {
    background-attachment: fixed;
    background-position: center;

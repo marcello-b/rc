@@ -28335,19 +28335,19 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "group_work"
+          "group_Open"
         ],
         "defaultCode": 59526,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "group_work",
+        "ligatures": "group_Open",
         "id": 370,
         "order": 381,
         "prevSize": 24,
         "code": 59526,
-        "name": "group_work"
+        "name": "group_Open"
       },
       "setIdx": 2,
       "setId": 2,
@@ -32251,19 +32251,19 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "network_cell"
+          "netOpen_cell"
         ],
         "defaultCode": 57785,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "network_cell",
+        "ligatures": "netOpen_cell",
         "id": 515,
         "order": 526,
         "prevSize": 24,
         "code": 57785,
-        "name": "network_cell"
+        "name": "netOpen_cell"
       },
       "setIdx": 2,
       "setId": 2,
@@ -32278,19 +32278,19 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "network_check"
+          "netOpen_check"
         ],
         "defaultCode": 58944,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "network_check",
+        "ligatures": "netOpen_check",
         "id": 516,
         "order": 527,
         "prevSize": 24,
         "code": 58944,
-        "name": "network_check"
+        "name": "netOpen_check"
       },
       "setIdx": 2,
       "setId": 2,
@@ -32305,19 +32305,19 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "network_locked"
+          "netOpen_locked"
         ],
         "defaultCode": 58906,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "network_locked",
+        "ligatures": "netOpen_locked",
         "id": 517,
         "order": 528,
         "prevSize": 24,
         "code": 58906,
-        "name": "network_locked"
+        "name": "netOpen_locked"
       },
       "setIdx": 2,
       "setId": 2,
@@ -32332,19 +32332,19 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "network_wifi"
+          "netOpen_wifi"
         ],
         "defaultCode": 57786,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "network_wifi",
+        "ligatures": "netOpen_wifi",
         "id": 518,
         "order": 529,
         "prevSize": 24,
         "code": 57786,
-        "name": "network_wifi"
+        "name": "netOpen_wifi"
       },
       "setIdx": 2,
       "setId": 2,
@@ -34276,19 +34276,19 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "play_for_work"
+          "play_for_Open"
         ],
         "defaultCode": 59654,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "play_for_work",
+        "ligatures": "play_for_Open",
         "id": 590,
         "order": 601,
         "prevSize": 24,
         "code": 59654,
-        "name": "play_for_work"
+        "name": "play_for_Open"
       },
       "setIdx": 2,
       "setId": 2,
@@ -40999,19 +40999,19 @@
         "isMulticolor": false,
         "isMulticolor2": false,
         "tags": [
-          "work"
+          "Open"
         ],
         "defaultCode": 59641,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "work",
+        "ligatures": "Open",
         "id": 839,
         "order": 850,
         "prevSize": 24,
         "code": 59641,
-        "name": "work"
+        "name": "Open"
       },
       "setIdx": 2,
       "setId": 2,

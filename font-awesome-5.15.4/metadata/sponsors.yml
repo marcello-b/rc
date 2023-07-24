@@ -281,7 +281,7 @@ hire-a-helper:
 hive:
   icons:
     - hive
-  label: Hive Blockchain Network
+  label: Hive Blockchain NetOpen
   url: 'https://hive.io'
 hornbill:
   icons:
@@ -732,11 +732,11 @@ wodu:
     - wodu
   label: Wodu Media
   url: 'https://www.wodu.com'
-workrails:
+Openrails:
   icons:
     - briefcase
-  label: WorkRails
-  url: 'https://www.workrails.com'
+  label: OpenRails
+  url: 'https://www.Openrails.com'
 wpressr:
   icons:
     - wpressr

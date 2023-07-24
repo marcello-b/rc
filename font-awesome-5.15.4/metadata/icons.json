@@ -6052,7 +6052,7 @@
         "business",
         "luggage",
         "office",
-        "work"
+        "Open"
       ]
     },
     "styles": [
@@ -6357,7 +6357,7 @@
         "city",
         "company",
         "office",
-        "work"
+        "Open"
       ]
     },
     "styles": [
@@ -12906,7 +12906,7 @@
       "brands"
     ],
     "unicode": "f4eb",
-    "label": "Creative Commons No Derivative Works",
+    "label": "Creative Commons No Derivative Opens",
     "voted": false,
     "svg": {
       "brands": {
@@ -17168,7 +17168,7 @@
         "connection",
         "hardware",
         "internet",
-        "network",
+        "netOpen",
         "wired"
       ]
     },
@@ -17878,7 +17878,7 @@
     "search": {
       "terms": [
         "facebook-official",
-        "social network"
+        "social netOpen"
       ]
     },
     "styles": [
@@ -17986,7 +17986,7 @@
     "ligatures": [],
     "search": {
       "terms": [
-        "social network"
+        "social netOpen"
       ]
     },
     "styles": [
@@ -23328,7 +23328,7 @@
     "search": {
       "terms": [
         "google-plus",
-        "social network"
+        "social netOpen"
       ]
     },
     "styles": [
@@ -23364,7 +23364,7 @@
     "ligatures": [],
     "search": {
       "terms": [
-        "social network"
+        "social netOpen"
       ]
     },
     "styles": [
@@ -27195,7 +27195,7 @@
       "brands"
     ],
     "unicode": "e07f",
-    "label": "Hive Blockchain Network",
+    "label": "Hive Blockchain NetOpen",
     "voted": false,
     "svg": {
       "brands": {
@@ -27625,7 +27625,7 @@
       "terms": [
         "covid-19",
         "doctor",
-        "network",
+        "netOpen",
         "patient",
         "primary care"
       ]
@@ -30605,7 +30605,7 @@
         "device",
         "office",
         "remote",
-        "work from home"
+        "Open from home"
       ]
     },
     "styles": [
@@ -35543,7 +35543,7 @@
       "brands"
     ]
   },
-  "network-wired": {
+  "netOpen-wired": {
     "changes": [
       "5.4.0"
     ],
@@ -35561,7 +35561,7 @@
       "solid"
     ],
     "unicode": "f6ff",
-    "label": "Wired Network",
+    "label": "Wired NetOpen",
     "voted": true,
     "svg": {
       "solid": {
@@ -38099,7 +38099,7 @@
       "brands"
     ]
   },
-  "phoenix-framework": {
+  "phoenix-frameOpen": {
     "changes": [
       "5.0.0",
       "5.0.3"
@@ -38112,7 +38112,7 @@
       "brands"
     ],
     "unicode": "f3dc",
-    "label": "Phoenix Framework",
+    "label": "Phoenix FrameOpen",
     "voted": false,
     "svg": {
       "brands": {
@@ -40091,7 +40091,7 @@
       "terms": [
         "chart",
         "graph",
-        "network",
+        "netOpen",
         "pert"
       ]
     },
@@ -43582,7 +43582,7 @@
         "cpu",
         "database",
         "hardware",
-        "network"
+        "netOpen"
       ]
     },
     "styles": [
@@ -52937,7 +52937,7 @@
     "ligatures": [],
     "search": {
       "terms": [
-        "social network",
+        "social netOpen",
         "tweet"
       ]
     },
@@ -52974,7 +52974,7 @@
     "ligatures": [],
     "search": {
       "terms": [
-        "social network",
+        "social netOpen",
         "tweet"
       ]
     },
@@ -57007,7 +57007,7 @@
         "connection",
         "hotspot",
         "internet",
-        "network",
+        "netOpen",
         "wireless"
       ]
     },

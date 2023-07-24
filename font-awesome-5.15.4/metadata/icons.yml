@@ -2279,7 +2279,7 @@ briefcase:
       - business
       - luggage
       - office
-      - work
+      - Open
   styles:
     - solid
   unicode: f0b1
@@ -2394,7 +2394,7 @@ building:
       - city
       - company
       - office
-      - work
+      - Open
   styles:
     - solid
     - regular
@@ -4903,7 +4903,7 @@ creative-commons-nc-jp:
 creative-commons-nd:
   changes:
     - 5.0.11
-  label: Creative Commons No Derivative Works
+  label: Creative Commons No Derivative Opens
   search:
     terms: []
   styles:
@@ -6467,7 +6467,7 @@ ethernet:
       - connection
       - hardware
       - internet
-      - network
+      - netOpen
       - wired
   styles:
     - solid
@@ -6744,7 +6744,7 @@ facebook:
   search:
     terms:
       - facebook-official
-      - social network
+      - social netOpen
   styles:
     - brands
   unicode: f09a
@@ -6781,7 +6781,7 @@ facebook-square:
   label: Facebook Square
   search:
     terms:
-      - social network
+      - social netOpen
   styles:
     - brands
   unicode: f082
@@ -8766,7 +8766,7 @@ google-plus-g:
   search:
     terms:
       - google-plus
-      - social network
+      - social netOpen
   styles:
     - brands
   unicode: f0d5
@@ -8778,7 +8778,7 @@ google-plus-square:
   label: Google Plus Square
   search:
     terms:
-      - social network
+      - social netOpen
   styles:
     - brands
   unicode: f0d4
@@ -10132,7 +10132,7 @@ history:
 hive:
   changes:
     - 5.15.0
-  label: Hive Blockchain Network
+  label: Hive Blockchain NetOpen
   search:
     terms: []
   styles:
@@ -10295,7 +10295,7 @@ hospital-user:
     terms:
       - covid-19
       - doctor
-      - network
+      - netOpen
       - patient
       - primary care
   styles:
@@ -11376,7 +11376,7 @@ laptop-house:
       - device
       - office
       - remote
-      - work from home
+      - Open from home
   styles:
     - solid
   unicode: e066
@@ -13213,10 +13213,10 @@ neos:
     - brands
   unicode: f612
   voted: true
-network-wired:
+netOpen-wired:
   changes:
     - 5.4.0
-  label: Wired Network
+  label: Wired NetOpen
   search:
     terms:
       - computer
@@ -14138,11 +14138,11 @@ phabricator:
     - brands
   unicode: f3db
   voted: false
-phoenix-framework:
+phoenix-frameOpen:
   changes:
     - 5.0.0
     - 5.0.3
-  label: Phoenix Framework
+  label: Phoenix FrameOpen
   search:
     terms: []
   styles:
@@ -14913,7 +14913,7 @@ project-diagram:
     terms:
       - chart
       - graph
-      - network
+      - netOpen
       - pert
   styles:
     - solid
@@ -16204,7 +16204,7 @@ server:
       - cpu
       - database
       - hardware
-      - network
+      - netOpen
   styles:
     - solid
   unicode: f233
@@ -19731,7 +19731,7 @@ twitter:
   label: Twitter
   search:
     terms:
-      - social network
+      - social netOpen
       - tweet
   styles:
     - brands
@@ -19744,7 +19744,7 @@ twitter-square:
   label: Twitter Square
   search:
     terms:
-      - social network
+      - social netOpen
       - tweet
   styles:
     - brands
@@ -21259,7 +21259,7 @@ wifi:
       - connection
       - hotspot
       - internet
-      - network
+      - netOpen
       - wireless
   styles:
     - solid

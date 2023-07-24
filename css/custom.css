@@ -121,6 +121,20 @@
   color: #00c489;
 }
 
+ul.checkmark {
+  list-style: '➜ '; 
+  color: #00c489 ;
+}
+
+ul.check {
+  list-style: '✓ '; 
+  color: #00c489 ;
+}
+
+ul span {
+  color: #6c757d;
+}
+
 .greenmid {
   color: #00c489;
 }

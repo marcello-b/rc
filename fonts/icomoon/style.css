@@ -3492,7 +3492,7 @@
 .icon-group_add:before {
   content: "\e7f0";
 }
-.icon-group_work:before {
+.icon-group_Open:before {
   content: "\e886";
 }
 .icon-hd:before {
@@ -3927,16 +3927,16 @@
 .icon-near_me:before {
   content: "\e569";
 }
-.icon-network_cell:before {
+.icon-netOpen_cell:before {
   content: "\e1b9";
 }
-.icon-network_check:before {
+.icon-netOpen_check:before {
   content: "\e640";
 }
-.icon-network_locked:before {
+.icon-netOpen_locked:before {
   content: "\e61a";
 }
-.icon-network_wifi:before {
+.icon-netOpen_wifi:before {
   content: "\e1ba";
 }
 .icon-new_releases:before {
@@ -4152,7 +4152,7 @@
 .icon-play_circle_outline:before {
   content: "\e039";
 }
-.icon-play_for_work:before {
+.icon-play_for_Open:before {
   content: "\e906";
 }
 .icon-playlist_add:before {
@@ -4899,7 +4899,7 @@
 .icon-wifi_tethering:before {
   content: "\e1e2";
 }
-.icon-work:before {
+.icon-Open:before {
   content: "\e8f9";
 }
 .icon-wrap_text:before {

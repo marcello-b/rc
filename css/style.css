@@ -10077,13 +10077,13 @@ textarea {
     .feature-h .feature-text .heading {
       font-size: 18px; }
   .feature-h:hover .wrap-icon, .feature-h:focus .wrap-icon {
-    border: 2px solid #303c39;
+    border: 2px solid #6c757d;
     background-color: transparent;
     -webkit-transform: scale(1.07);
     -ms-transform: scale(1.07);
     transform: scale(1.07); }
   .feature-h:hover [class^="icon-"], .feature-h:focus [class^="icon-"] {
-    color: #303c39; }
+    color: #6c757d; }
 
 .img-about img {
   position: relative;
@@ -10108,7 +10108,7 @@ textarea {
   width: 40px;
   height: 40px;
   color: #fff;
-  background: #303c39;
+  background: #6c757d;
   border-radius: 50%;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -10130,8 +10130,8 @@ textarea {
     border: 0px solid #fff; }
 
 .social.dark-hover a:hover {
-  color: #303c39;
-  border: 2px solid #303c39; }
+  color: #6c757d;
+  border: 2px solid #6c757d; }
 
 .links-arrow-before li {
   margin-bottom: 15px;
@@ -10492,7 +10492,7 @@ nav[aria-label="breadcrumb"] li:before {
   width: 40px;
   height: 40px;
   position: relative;
-  background: #00c589;
+  background: #6c757d;
   color: #fff;
   border-radius: 40%; }
 .site-footer .social li a:before {
@@ -10505,5 +10505,5 @@ nav[aria-label="breadcrumb"] li:before {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
 .site-footer .social li a:hover {
-  background: #303c39;
+  background: #00c489;
   color: #fff; }

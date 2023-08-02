@@ -190,6 +190,11 @@ ul span {
   font-size: 1.1em;
 }
 
+.f-lg {
+  font-size: 1.4em;
+  font-weight: 600;
+}
+
 .font-18 {
   font-size: 18px;
   color: #000;

@@ -9726,7 +9726,7 @@ textarea {
 
 .hero-slide {
   top: 0;
-  position: absolute;
+  position: fixed;
   left: 0;
   right: 0; }
   .hero-slide .img {
@@ -10278,6 +10278,20 @@ textarea {
     z-index: 8;
     text-align: center;
     background-color: #d8d8d8; }
+
+.features-3 {
+   padding-top: 30px;
+   position: relative;
+   z-index: 8;
+   text-align: center;
+   background-color: #ffffff; }
+
+.features-4 {
+  padding-top: 30px;
+  position: relative;
+  z-index: 8;
+  text-align: center;
+  background-color: #fafafa; }
 
 .box-feature {
   background: #fff;
